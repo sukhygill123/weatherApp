@@ -4,5 +4,24 @@
     "hbs": "^4.2.0",
     "nodemon": "^2.0.15",
     "npm": "^8.6.0"
-  }
+  },
+  "name": "expressweb1",
+  "version": "1.0.0",
+  "description": "webapp",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sukhygill123/wetherapp.git"
+  },
+  "author": "sukhy gill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sukhygill123/wetherapp/issues"
+  },
+  "homepage": "https://github.com/sukhygill123/wetherapp#readme"
 }
